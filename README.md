@@ -1,5 +1,7 @@
 # js-classes
 
+[Kodaktor](https://kodaktor.ru/3404849)
+
 ### src.js
 
 ```javascript
